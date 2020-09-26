@@ -283,3 +283,6 @@ install(FILES "${CMAKE_CURRENT_BINARY_DIR}/libwoff2dec.pc"
   DESTINATION "${CMAKE_INSTALL_LIBDIR}/pkgconfig")
 install(FILES "${CMAKE_CURRENT_BINARY_DIR}/libwoff2enc.pc"
   DESTINATION "${CMAKE_INSTALL_LIBDIR}/pkgconfig")
+
+  ddfghj
+  
